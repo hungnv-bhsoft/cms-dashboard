@@ -1,11 +1,7 @@
-import React from "react";
-import { Button } from "antd";
-import "./App.less";
+import React from 'react';
 
-const App = () => (
-  <div className="App">
-    <Button type="primary">Button</Button>
-  </div>
-);
+const App = () => {
+  return <div>App</div>;
+};
 
 export default App;
